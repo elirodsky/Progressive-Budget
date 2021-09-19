@@ -1,6 +1,4 @@
 let db;
-
-
 // new db request created for "BudgetDB" database.
 const request = indexedDB.open("budgetdb", 1);
 
